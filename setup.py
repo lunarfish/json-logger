@@ -11,7 +11,7 @@ setuptools.setup(
     description="Create a logger which outputs JSON",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/alphagov/cybersecuritytools",
+    url="https://github.com/lunarfish/json-logger",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
